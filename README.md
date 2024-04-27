@@ -23,10 +23,7 @@ Main Features Used :
 
 Don't forget to star :star2: the repo if you like our work.:heart::blue_heart::yellow_heart::purple_heart::green_heart:
 
-## Website :link:
-
-> [Toastguyz](www.toastguyz.com) - A programming tutorials website
-
+  
 ## Support on social media :thumbsup:
  
  
